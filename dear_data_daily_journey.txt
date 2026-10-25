@@ -1,0 +1,33 @@
+Dear Data 100 – My Daily Journey
+
+This file contains 25 observations of my journey from home to university.
+Each row is one journey. Times are recorded in minutes.
+
+Columns:
+Journey, Walk to station (minutes), Train (minutes), Walk to university (minutes)
+
+Journey 1, 10, 40, 10
+Journey 2, 8, 37, 12
+Journey 3, 11, 44, 7
+Journey 4, 6, 35, 9
+Journey 5, 13, 42, 11
+Journey 6, 9, 39, 8
+Journey 7, 7, 46, 14
+Journey 8, 12, 41, 10
+Journey 9, 5, 36, 8
+Journey 10, 10, 48, 13
+Journey 11, 14, 43, 9
+Journey 12, 8, 34, 6
+Journey 13, 9, 40, 11
+Journey 14, 15, 45, 10
+Journey 15, 6, 38, 12
+Journey 16, 11, 42, 8
+Journey 17, 7, 33, 9
+Journey 18, 10, 47, 14
+Journey 19, 12, 39, 7
+Journey 20, 8, 41, 10
+Journey 21, 13, 44, 6
+Journey 22, 9, 36, 12
+Journey 23, 5, 43, 11
+Journey 24, 14, 37, 9
+Journey 25, 10, 46, 10
